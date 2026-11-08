@@ -1,0 +1,15 @@
+beautifulsoup4
+cloudscraper
+fuzzywuzzy
+jupyterlab
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+seaborn
+tabulate
+tensorflow
+torch
+tqdm
+wordcloud
